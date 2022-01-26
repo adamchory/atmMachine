@@ -1,0 +1,21 @@
+body {
+  font-family: 'FreeMono', monospace;
+  padding: 10px;
+  background-color: #90EE90; 
+  color: #90EE90; 
+}
+
+button {
+    background-color: #0c80f3;
+    border: 6px solid #0ff166;
+    border-radius: 10px;
+    width: 150px;
+  }
+  
+  select {
+    display: block;
+    border: 6px solid #0ff166;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
